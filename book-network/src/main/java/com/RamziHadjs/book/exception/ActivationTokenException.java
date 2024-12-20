@@ -1,4 +1,4 @@
-package com.alibou.book.exception;
+package com.RamziHadjs.book.exception;
 
 public class ActivationTokenException extends RuntimeException {
     public ActivationTokenException(String message) {

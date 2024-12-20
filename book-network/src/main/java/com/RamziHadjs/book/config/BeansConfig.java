@@ -1,4 +1,4 @@
-package com.alibou.book.config;
+package com.RamziHadjs.book.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

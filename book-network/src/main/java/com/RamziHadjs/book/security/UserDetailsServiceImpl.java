@@ -1,6 +1,6 @@
-package com.alibou.book.security;
+package com.RamziHadjs.book.security;
 
-import com.alibou.book.user.UserRepository;
+import com.RamziHadjs.book.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

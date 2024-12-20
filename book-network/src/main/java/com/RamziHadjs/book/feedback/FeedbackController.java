@@ -1,6 +1,6 @@
-package com.alibou.book.feedback;
+package com.RamziHadjs.book.feedback;
 
-import com.alibou.book.common.PageResponse;
+import com.RamziHadjs.book.common.PageResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

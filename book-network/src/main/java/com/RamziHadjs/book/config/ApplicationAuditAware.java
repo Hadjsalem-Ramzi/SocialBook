@@ -1,6 +1,6 @@
-package com.alibou.book.config;
+package com.RamziHadjs.book.config;
 
-import com.alibou.book.user.User;
+import com.RamziHadjs.book.user.User;
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
 import org.springframework.security.core.Authentication;

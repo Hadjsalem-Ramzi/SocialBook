@@ -1,7 +1,7 @@
-package com.alibou.book.handler;
+package com.RamziHadjs.book.handler;
 
-import com.alibou.book.exception.ActivationTokenException;
-import com.alibou.book.exception.OperationNotPermittedException;
+import com.RamziHadjs.book.exception.ActivationTokenException;
+import com.RamziHadjs.book.exception.OperationNotPermittedException;
 import jakarta.mail.MessagingException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;
@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import java.util.HashSet;
 import java.util.Set;
 
-import static com.alibou.book.handler.BusinessErrorCodes.ACCOUNT_DISABLED;
-import static com.alibou.book.handler.BusinessErrorCodes.ACCOUNT_LOCKED;
-import static com.alibou.book.handler.BusinessErrorCodes.BAD_CREDENTIALS;
+import static com.RamziHadjs.book.handler.BusinessErrorCodes.ACCOUNT_DISABLED;
+import static com.RamziHadjs.book.handler.BusinessErrorCodes.ACCOUNT_LOCKED;
+import static com.RamziHadjs.book.handler.BusinessErrorCodes.BAD_CREDENTIALS;
 import static org.springframework.http.HttpStatus.BAD_REQUEST;
 import static org.springframework.http.HttpStatus.INTERNAL_SERVER_ERROR;
 import static org.springframework.http.HttpStatus.UNAUTHORIZED;

@@ -1,8 +1,8 @@
-package com.alibou.book.book;
+package com.RamziHadjs.book.book;
 
-import com.alibou.book.common.BaseEntity;
-import com.alibou.book.feedback.Feedback;
-import com.alibou.book.history.BookTransactionHistory;
+import com.RamziHadjs.book.common.BaseEntity;
+import com.RamziHadjs.book.feedback.Feedback;
+import com.RamziHadjs.book.history.BookTransactionHistory;
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Transient;

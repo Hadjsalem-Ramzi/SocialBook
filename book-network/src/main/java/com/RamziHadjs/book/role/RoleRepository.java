@@ -1,4 +1,4 @@
-package com.alibou.book.role;
+package com.RamziHadjs.book.role;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-package com.alibou.book.user;
+package com.RamziHadjs.book.user;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

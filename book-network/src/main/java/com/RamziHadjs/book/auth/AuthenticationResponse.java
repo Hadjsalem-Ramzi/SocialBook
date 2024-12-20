@@ -1,4 +1,4 @@
-package com.alibou.book.auth;
+package com.RamziHadjs.book.auth;
 
 import lombok.Builder;
 import lombok.Getter;

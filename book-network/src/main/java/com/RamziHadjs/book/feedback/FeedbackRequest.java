@@ -1,4 +1,4 @@
-package com.alibou.book.feedback;
+package com.RamziHadjs.book.feedback;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;

@@ -1,4 +1,4 @@
-package com.alibou.book.security;
+package com.RamziHadjs.book.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

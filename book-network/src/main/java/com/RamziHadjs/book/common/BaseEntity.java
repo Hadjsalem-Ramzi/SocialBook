@@ -1,4 +1,4 @@
-package com.alibou.book.common;
+package com.RamziHadjs.book.common;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

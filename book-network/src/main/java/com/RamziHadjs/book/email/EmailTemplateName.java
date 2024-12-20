@@ -1,4 +1,4 @@
-package com.alibou.book.email;
+package com.RamziHadjs.book.email;
 
 import lombok.Getter;
 

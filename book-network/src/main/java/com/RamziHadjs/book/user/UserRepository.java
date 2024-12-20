@@ -1,6 +1,5 @@
-package com.alibou.book.user;
+package com.RamziHadjs.book.user;
 
-import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
 

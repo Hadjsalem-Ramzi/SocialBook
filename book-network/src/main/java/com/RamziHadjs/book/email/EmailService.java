@@ -1,4 +1,4 @@
-package com.alibou.book.email;
+package com.RamziHadjs.book.email;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
@@ -53,7 +53,7 @@ public class EmailService {
         Context context = new Context();
         context.setVariables(properties);
 
-        helper.setFrom("contact@aliboucoding.com");
+        helper.setFrom("contact@RamziHadjscoding.com");
         helper.setTo(to);
         helper.setSubject(subject);
 

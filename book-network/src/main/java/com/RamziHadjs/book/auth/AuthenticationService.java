@@ -1,27 +1,10 @@
-package com.alibou.book.auth;
+package com.RamziHadjs.book.auth;
 
-import com.alibou.book.email.EmailService;
-import com.alibou.book.email.EmailTemplateName;
-import com.alibou.book.role.RoleRepository;
-import com.alibou.book.security.JwtService;
-import com.alibou.book.user.Token;
-import com.alibou.book.user.TokenRepository;
-import com.alibou.book.user.User;
-import com.alibou.book.user.UserRepository;
-import jakarta.mail.MessagingException;
+
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.security.authentication.AuthenticationManager;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
-import java.security.SecureRandom;
-import java.time.LocalDateTime;
-import java.util.HashMap;
-import java.util.List;
+import org.springframework.stereotype.Service;
+
 
 @Service
 @RequiredArgsConstructor

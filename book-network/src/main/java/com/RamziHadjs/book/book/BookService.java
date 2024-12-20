@@ -1,11 +1,11 @@
-package com.alibou.book.book;
+package com.RamziHadjs.book.book;
 
-import com.alibou.book.common.PageResponse;
-import com.alibou.book.exception.OperationNotPermittedException;
-import com.alibou.book.file.FileStorageService;
-import com.alibou.book.history.BookTransactionHistory;
-import com.alibou.book.history.BookTransactionHistoryRepository;
-import com.alibou.book.user.User;
+import com.RamziHadjs.book.common.PageResponse;
+import com.RamziHadjs.book.exception.OperationNotPermittedException;
+import com.RamziHadjs.book.file.FileStorageService;
+import com.RamziHadjs.book.history.BookTransactionHistory;
+import com.RamziHadjs.book.history.BookTransactionHistoryRepository;
+import com.RamziHadjs.book.user.User;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -21,7 +21,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.List;
 import java.util.Objects;
 
-import static com.alibou.book.book.BookSpecification.withOwnerId;
+import static com.RamziHadjs.book.book.BookSpecification.withOwnerId;
 
 @Service
 @RequiredArgsConstructor

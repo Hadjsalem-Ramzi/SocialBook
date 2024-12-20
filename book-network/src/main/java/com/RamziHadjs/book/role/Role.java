@@ -1,6 +1,6 @@
-package com.alibou.book.role;
+package com.RamziHadjs.book.role;
 
-import com.alibou.book.user.User;
+import com.RamziHadjs.book.user.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

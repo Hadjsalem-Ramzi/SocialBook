@@ -1,10 +1,10 @@
-package com.alibou.book.feedback;
+package com.RamziHadjs.book.feedback;
 
-import com.alibou.book.book.Book;
-import com.alibou.book.book.BookRepository;
-import com.alibou.book.common.PageResponse;
-import com.alibou.book.exception.OperationNotPermittedException;
-import com.alibou.book.user.User;
+import com.RamziHadjs.book.book.Book;
+import com.RamziHadjs.book.book.BookRepository;
+import com.RamziHadjs.book.common.PageResponse;
+import com.RamziHadjs.book.exception.OperationNotPermittedException;
+import com.RamziHadjs.book.user.User;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

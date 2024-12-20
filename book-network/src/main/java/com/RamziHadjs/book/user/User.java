@@ -1,8 +1,8 @@
-package com.alibou.book.user;
+package com.RamziHadjs.book.user;
 
-import com.alibou.book.book.Book;
-import com.alibou.book.history.BookTransactionHistory;
-import com.alibou.book.role.Role;
+import com.RamziHadjs.book.book.Book;
+import com.RamziHadjs.book.history.BookTransactionHistory;
+import com.RamziHadjs.book.role.Role;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EntityListeners;
