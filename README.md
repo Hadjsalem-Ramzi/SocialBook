@@ -68,12 +68,7 @@ By following this project, students will learn:
 - CI/CD pipeline & deployment
 
 
-## Getting Started
 
-To get started with the Book Social Network project, follow the setup instructions in the respective directories:
-
-- [Backend Setup Instructions](/book-network/README.md)
-- [Frontend Setup Instructions](book-network-ui/README.md)
 
 
 
